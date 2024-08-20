@@ -1,0 +1,22 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+.env
+
+# Virtualenv #
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# IDEs #
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
